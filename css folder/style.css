@@ -155,6 +155,11 @@ body{
       font-size: 70%;
     }
   }
+
+  .delivery-button:hover{
+    background-color: #d7b075;
+    color: #8D2A2A;   
+  }
   
 /* hero section ends */
 
